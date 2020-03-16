@@ -1,5 +1,6 @@
 # FakeIMEI
 Fake IMEI for Free Fire
+
 Good news for Android 10, user apps can no longer get IMEI due to privacy changes https://developer.android.com/about/versions/10/privacy/changes
 
 # How to intergate
