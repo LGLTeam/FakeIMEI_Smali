@@ -1,7 +1,9 @@
 # FakeIMEI
 Fake IMEI for Free Fire
 
-Good news for Android 10, user apps can no longer get IMEI due to privacy changes https://developer.android.com/about/versions/10/privacy/changes
+**THIS PROJECT IS NO LONGER MAINTAINED**
+
+**Important: Android 10 and above cannot get IMEI anymore due to privacy changes https://developer.android.com/about/versions/10/privacy/changes**
 
 # How to intergate
 To intergate it in the APK file, copy the smali folder to the smali directory of decompiled APK
